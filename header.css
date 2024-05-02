@@ -1,0 +1,11 @@
+header{
+   max-height: 400px;
+}
+header .swiper{
+    max-height: 400px;
+    max-width: 100%;
+    align-items: start;
+}
+header .swiper-slide img{
+    border-radius: 0%;
+}

@@ -1,0 +1,14 @@
+.portofolio{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.portofolio-inside{
+    display: flex;
+    max-width: 100%;
+    flex-wrap: wrap;
+}
+.portofolio-inside img {
+    max-width: 30%;
+    margin: 1%;
+}

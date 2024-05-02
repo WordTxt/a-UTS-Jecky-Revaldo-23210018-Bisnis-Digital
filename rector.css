@@ -1,0 +1,23 @@
+
+.rector-container{
+    display: flex;
+    max-width: 100%;
+
+}
+.rector-card{
+    display: flex;
+    width: 100%;
+}
+.rector-card img{
+    max-width: 100%;
+ 
+}
+
+.card-container{
+    margin: 0% 2%;
+    max-width:28%;
+}
+.card-container img {
+    max-width: 100%;
+    object-fit:cover;
+}

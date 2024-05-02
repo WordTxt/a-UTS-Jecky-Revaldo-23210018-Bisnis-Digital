@@ -1,0 +1,32 @@
+
+.card{
+    display: flex;
+    max-width: 100%;
+    text-wrap:balance;
+    justify-content: space-between;
+}
+.card-inside {
+    background: #1e3b76;
+    max-width: 30%;
+    border-radius: 2%;
+    padding:10px;
+    transition: 0.5s;
+    text-align: justify;
+}
+.card-inside h4, p{
+    margin: 0px;
+}
+.card-inside h4{
+    font-size: 18px;
+    margin-bottom: 4px;
+}
+.card-inside p {
+    font-size: 13px;
+}
+.card-inside a{
+    text-decoration: none;
+    
+}
+.card-inside:hover{
+    transform: translateY(-5px);
+}
